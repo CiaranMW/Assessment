@@ -1,0 +1,13 @@
+train: D:\Programs\Python Code\YOLOv8\Datasets\Office.v1i.yolo26\train
+val: D:\Programs\Python Code\YOLOv8\Datasets\Office.v1i.yolo26\valid
+test: D:\Programs\Python Code\YOLOv8\Datasets\Office.v1i.yolo26\test
+
+nc: 7
+names: ['Book', 'Chair', 'Computer-keyboard', 'Computer-monitor', 'Computer-mouse', 'Laptop', 'Luggage-and-bags']
+
+roboflow:
+  workspace: cmacwhite-hotmail-co-uk
+  project: office-yospe-kqfqf
+  version: 1
+  license: CC BY 4.0
+  url: https://app.roboflow.com/cmacwhite-hotmail-co-uk/office-yospe-kqfqf/1

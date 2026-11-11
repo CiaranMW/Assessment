@@ -1,0 +1,14 @@
+First install conda and create an environment to do this open a command terminal and input the following command.
+
+"conda create --name Assess python=3.14" # This will create an environment for us to work in
+"conda activate Assess" # This will allow us to use the environment we just made
+"pip install ultralytics" # This will install the needed library to run the code
+
+Following this you need to use the "anaconda prompt" terminal which can be found by searching in your taskbar. Once that is open type in "code" and press enter.
+This will open VS Code (and open the environment within the code editor)
+
+Open the folder attached called "Ciarans Assessment Code" in VS Code 
+
+Now click on the python file called "Assessment Code.py"
+
+Now run the script
